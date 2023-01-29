@@ -1,0 +1,19 @@
+{
+  "name": "potreetest.github.io",
+  "version": "1.0.0",
+  "description": "potree code test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blizzayy/potreetest.github.io.git"
+  },
+  "author": "Yu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blizzayy/potreetest.github.io/issues"
+  },
+  "homepage": "https://github.com/blizzayy/potreetest.github.io#readme"
+}
