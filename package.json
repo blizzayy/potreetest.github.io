@@ -15,5 +15,24 @@
   "bugs": {
     "url": "https://github.com/blizzayy/potreetest.github.io/issues"
   },
-  "homepage": "https://github.com/blizzayy/potreetest.github.io#readme"
+  "homepage": "https://github.com/blizzayy/potreetest.github.io#readme",
+  "keywords": [
+    "point",
+    "cloud",
+    "pointcloud",
+    "octree",
+    "entwine",
+    "viewer",
+    "threejs",
+    "webgl",
+    "browser",
+    "tool"
+  ],
+  "devDependencies": {
+    "rollup": "^3.12.1"
+  },
+  "dependencies": {
+    "potree-core": "^2.0.3",
+    "three": "^0.149.0"
+  }
 }
