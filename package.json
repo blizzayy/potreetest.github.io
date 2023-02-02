@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "potree code test",
   "main": "index.html",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -29,6 +30,7 @@
     "tool"
   ],
   "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.1",
     "rollup": "^3.12.1"
   },
   "dependencies": {
