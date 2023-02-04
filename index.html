@@ -58,7 +58,7 @@
 		});
 		
 		// Lion
-		Potree.loadPointCloud("../pointcloud/lion_takanawa/cloud.js", "lion", function(e){
+		Potree.loadPointCloud("./pointcloud/cloud.js", "lion", function(e){
 			viewer.scene.addPointCloud(e.pointcloud);
 			
 			let material = e.pointcloud.material;
