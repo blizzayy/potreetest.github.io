@@ -35,7 +35,6 @@
     "rollup": "^3.12.1"
   },
   "dependencies": {
-    "potree-core": "^2.0.3",
-    "three": "^0.149.0"
+    "potree-core": "^2.0.3"
   }
 }
