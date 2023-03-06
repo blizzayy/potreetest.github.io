@@ -66751,7 +66751,7 @@ void main() {
 			octree.pointAttributes = OctreeLoader.parseAttributes(metadata.attributes);
 			octree.loader = loader;
 
-			let root = new OctreeGeometryNode("r", octree, boundingBox);
+			let root = new OctreeGeometryNode("p", octree, boundingBox);
 			root.level = 0;
 			root.nodeType = 2;
 			root.hierarchyByteOffset = 0n;
